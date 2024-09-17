@@ -10,4 +10,3 @@ namespace WpfWithThemesDemo;
 public partial class App : Application
 {
 }
-
